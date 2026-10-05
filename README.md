@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Farhan 👋</h1>
+<h1 align="center">What is up!</h1>
 <h3 align="center">Computer Science Student | Software Engineer | Startup Co-Founder</h3>
 
 <p align="center">
